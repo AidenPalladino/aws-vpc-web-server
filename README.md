@@ -1,5 +1,7 @@
 # AWS VPC and Web Server
 
+> This write-up has moved to my [aws-labs](https://github.com/AidenPalladino/aws-labs/tree/main/VPC-Web-Server) repo, along with my other AWS labs.
+
 Write-up of the "Build your VPC and launch a web server" lab from AWS Academy at USF. I built a VPC with public and private subnets in two Availability Zones and put a web server in it behind a security group that only allows HTTP.
 
 **Services:** VPC, subnets, route tables, Internet Gateway, NAT Gateway, EC2 (Amazon Linux 2023), security groups
